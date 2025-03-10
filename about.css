@@ -25,7 +25,22 @@ nav ul li a{
 nav ul li a:hover{
     background-color: rgb(74, 87, 201);
 }
-h1{
-    font-size: 50px;
-    font-weight: 700;
+.img{
+    height: 150px;
+    width: 150px;
+    border-radius: 70px;
 }
+.div2{
+    margin-top: 20px;
+}
+.h1{
+       
+   
+    text-align:center;
+    text-decoration: double;
+    margin-top: 20px;
+}
+.div1{
+    text-align: center;
+}
+
