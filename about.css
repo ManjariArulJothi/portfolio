@@ -1,5 +1,5 @@
 body{
-    background-color: antiquewhite;
+    background-color:rgb(226, 205, 176);
 }
 nav ul{
     display: flex;
@@ -30,16 +30,16 @@ nav ul li a:hover{
     width: 150px;
     border-radius: 70px;
 }
-.div2{
-    margin-top: 20px;
+.div{
+    margin-top: 60px;
+
+    display :block;
+    text-align: center;
+    width:100%;
+    font-style: bold;
+
 }
-.h1{
-       
-   
-    text-align:center;
-    text-decoration: double;
-    margin-top: 20px;
-}
+
 .div1{
     text-align: center;
 }

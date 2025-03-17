@@ -26,3 +26,45 @@ h1{
     font-size: 50px;
     font-weight: 700;
 }
+
+.div1 h1 span{
+
+    color: brown;
+}
+.button1{
+    background-color: rgb(155, 144, 144);
+    color: rgb(245, 239, 239);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.button1:hover{
+    background-color: rgb(15, 15, 15);
+}
+.button2{
+    background-color: rgb(151, 143, 143);
+    color: rgb(247, 243, 243);
+    border:none;
+    cursor: pointer;
+    align-items: left;
+    border-radius: 5px;
+}
+.button2:hover{
+    background-color: rgb(12, 14, 14);
+}
+.img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 150%;
+}
+
+.abc{
+    display: flex;
+    margin-top: 110px;
+}
+.div1{
+    margin-left: 20px;
+}
+
