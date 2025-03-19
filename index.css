@@ -56,15 +56,16 @@ h1{
     height: 150px;
     width: 150px;
     border-radius: 50%;
-    margin-top: 50px;
-    margin-left: 150%;
+  
+    margin-left: 250%;
 }
 
-.abc{
+.row{
     display: flex;
     margin-top: 110px;
 }
 .div1{
     margin-left: 20px;
+
 }
 
